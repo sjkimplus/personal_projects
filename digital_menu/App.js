@@ -61,10 +61,8 @@ export default function App() {
 			>
 			<Stack.Screen 
 			name="Drawer" 
-			component={DrawerNavigator} // nested navigator!
+			component={DrawerNavigator} // nested navigator
 			options={{
-				// title: 'All Categories',
-				// headerTitleAlign: 'center',
 				headerShown: false
 			}}
 			/>
