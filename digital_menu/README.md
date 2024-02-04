@@ -76,9 +76,6 @@ npm run ios
 
 - [@babel/core](https://babeljs.io/docs/en/babel-core)
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 ```
 
 Remember to replace the placeholder URLs and paths with your actual project details. This README provides clear steps on cloning, installing dependencies, and running the app on both Expo Go and emulators.
