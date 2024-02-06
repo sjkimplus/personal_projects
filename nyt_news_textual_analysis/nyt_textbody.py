@@ -74,6 +74,3 @@ for l in l_article_text:
     cnt+=1
 cnt
 
-"""first five years i was only able to collect 36 articles.
-last five years i was able to collect 12.
-"""
