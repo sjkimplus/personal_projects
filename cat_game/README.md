@@ -13,7 +13,8 @@ The game's difficulty increases over time, with cats becoming less patient. Init
 
 ### Characters (Animal Types)
 - Master Cat (purple with NYU logo)
-- Grey Stripe Cat
+- White Cat
+- Grey Cat
 - Black Cat
 - Orange Cat
 - Dog
