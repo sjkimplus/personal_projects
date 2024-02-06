@@ -22,4 +22,7 @@ The game's difficulty increases over time, with cats becoming less patient. Init
 ### Game Objective
 Feed as many cats as possible within the given time to score points. Avoid feeding the dogs to maximize your game time.
 
+### How To Run This Game
+In order to run this game you need to download Processing (https://processing.org/download) and python on your device.
+
 Enjoy your time with the hungry Campus Cats! 🐱🐟
